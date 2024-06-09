@@ -1,0 +1,40 @@
+body{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    overflow-x:hidden;
+}
+.jumbotron{
+    padding-top: 6rem;
+    background-color:rgb(55, 58, 64);
+}
+
+#projects{
+    background-color: rgb(104, 109, 118);
+    border-top: 5px solid rgb(104, 109, 118);
+}
+
+section {
+    padding-top: 5rem;
+}
+
+footer a{
+    text-decoration: none;
+}
+
+#projects a{
+    text-decoration: none;
+}
+
+#gallery .row > *{
+    padding: 0;
+}
+
+footer{
+    border: 5px solid rgb(239, 239, 239);
+}
+
+.container{
+    width: 65%;
+}
+
+
+
